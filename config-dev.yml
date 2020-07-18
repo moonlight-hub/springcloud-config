@@ -1,2 +1,2 @@
-config
-  xu
+server:
+  port: 9999
